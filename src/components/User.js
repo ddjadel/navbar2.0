@@ -9,10 +9,10 @@ const User = ({ isDark }) => {
         <p
           className={` ${isDark ? "text-white " : "text-gray-500 "} font-bold `}
         >
-          William Gray
+          Djamel DJADEL
         </p>
         <p className={` ${isDark ? "text-white/60 " : "text-gray-600/80 "}  `}>
-          Product Designer
+          Product Owner
         </p>
       </div>
     </div>
